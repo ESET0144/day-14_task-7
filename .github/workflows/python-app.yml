@@ -7,7 +7,7 @@ on:
 
 env:
   REGISTRY: docker.io
-  IMAGE_NAME: uday2ml/your-app
+  IMAGE_NAME: uday2ml/my-image
 
 jobs:
   build-and-deploy:
